@@ -1,0 +1,7 @@
+# Raw and generated data (download from Kaggle)
+data/
+output/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
